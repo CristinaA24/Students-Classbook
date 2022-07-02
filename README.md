@@ -5,8 +5,7 @@ A student's class book where you can find any piece of information needed regard
 I designed a student's classbook using the Java concepts as follows:
 
 -package 'domain': contains the implementation of objects we are going to use in our program
-                  *class 'Curriculum': contains the name of the major and the required number 
-                                       of credits
+*class 'Curriculum': contains the name of the major and the required number of credits
                   *class 'Group': contains the name of the group, a group ID and the list 
                                   of students that are part of it
                   *class 'Person': contains the data of a person: cnp, first name, last name and age
